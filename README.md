@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview
-This webpage was designed to showcase documented sightings of UFOs in various states between 1/1/2010 and 1/13/2010. The first version of the webpage allowed for filtering based on date alongside a button to execute the search. To accomodate more search criterias, I revamped the search function to allow for searches based on date, city, state, country, and shape without a button to execute the search. 
+This webpage was designed to showcase documented sightings of UFOs in various states between 1/1/2010 and 1/13/2010. The first version of the webpage allowed for filtering based on date alongside a button to execute the search. To accomodate more search criterias, I revamped the search function in the javascript file to allow for searches based on date, city, state, country, and shape without a button to execute the search and made the necessary changes to the HTML index file for the new search function. 
 
 
 ## Results
